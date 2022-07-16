@@ -1,0 +1,35 @@
+* {
+  font-family: Lato, sans-serif;
+}
+
+body {
+  margin: 10% 10% 10% 10%;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: 600;
+}
+
+h2 {
+  text-transform: uppercase;
+  font-weight: 200;
+}
+
+p {
+  margin-left: 1.25em;
+}
+
+.feat {
+  font-weight: bold;
+}
+
+.inst {
+  font-weight: 400;
+  font-style: italic;
+  
+}
+
+.loc {
+  font-weight: 300;
+}
